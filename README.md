@@ -28,7 +28,7 @@ My tabbed navigation in action.
 1. Clone or download the repository:
 
     ```bash
-    git clone https://github.com/your-username/tabbed-navigation.git
+    git clone https://github.com/thapasijan171/Tabed-Navigation.git
     ```
 
 2. Open `index.html` in your web browser.
